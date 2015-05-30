@@ -27,3 +27,4 @@ library
   ghc-options: -Wall -W
   exposed-modules:
     Test.Hspec.Formatters.Jenkins
+    Test.Hspec.Formatters.Blaze
